@@ -1,0 +1,13 @@
+[submodule "my-first-repo2"]
+  path = my-first-repo2
+  url = https://github.com/JanLan7/my-first-repo2.git
+[submodule "projects/My-first-repo"]
+  path = projects/My-first-repo
+  url = https://github.com/JanLan7/My-first-repo.git
+[submodule "projects2/my-first-repo2"]
+  path = projects2/my-first-repo2
+  url = https://github.com/JanLan7/my-first-repo2.git
+
+
+
+
